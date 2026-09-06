@@ -1380,7 +1380,7 @@ export default function App() {
               <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-xs">
                 <h2 className="text-lg font-bold text-slate-900">Today's priorities</h2>
                 <p className="text-sm text-slate-500 mt-1 mb-4">
-                  Built from dwell time, revision counts and BKT mastery decay across every logged attempt — not just the raw gradebook percentages.
+                  Built from dwell time, revision counts and BKT mastery decay across every logged attempt.
                 </p>
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                   <button
